@@ -1,0 +1,3 @@
+[submodule "Drivers/HR_FONTX2"]
+	path = Drivers/HR_FONTX2
+	url = https://github.com/Haruroid/HR_FONTX2.git
